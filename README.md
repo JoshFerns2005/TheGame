@@ -16,7 +16,7 @@ Clone the repository:
 bash
 Copy code
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/JoshFerns2005/TheGame.git
 
 Open the project in Godot Engine.
 
